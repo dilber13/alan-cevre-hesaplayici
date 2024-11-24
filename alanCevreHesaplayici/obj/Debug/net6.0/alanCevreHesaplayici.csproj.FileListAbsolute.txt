@@ -1,0 +1,15 @@
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\net6.0\alanCevreHesaplayici.exe
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\net6.0\alanCevreHesaplayici.deps.json
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\net6.0\alanCevreHesaplayici.runtimeconfig.json
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\net6.0\alanCevreHesaplayici.dll
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\bin\Debug\net6.0\alanCevreHesaplayici.pdb
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.csproj.AssemblyReference.cache
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.AssemblyInfoInputs.cache
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.AssemblyInfo.cs
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.dll
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\refint\alanCevreHesaplayici.dll
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.pdb
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\alanCevreHesaplayici.genruntimeconfig.cache
+C:\Users\dndag\Desktop\alanCevreHesaplayici\alanCevreHesaplayici\obj\Debug\net6.0\ref\alanCevreHesaplayici.dll
